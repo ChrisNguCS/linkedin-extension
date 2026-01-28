@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "LinkedIn to Notion",
+  "version": "1.0",
+
+  "description": "Imports LinkedIn job applications to Notion Database",
+
+  "icons": {
+    "48": "icons/border-48.png"
+  },
+    "browser_action": {
+    "default_icon": "icons/border-48.png",
+    "default_title": "LinkedIn to Notion",
+    "default_popup": "popup/popup.html"
+  }
+}
